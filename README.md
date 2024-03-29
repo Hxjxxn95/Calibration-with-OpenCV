@@ -18,7 +18,7 @@ The calibration results in test.mp4 are as follows:
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.00802721  0.04784535  0.00355404  0.00280947 -0.13025702]
 
 The original and undistorted images are shown below:
-
+<blockquote>
 <img src="image/Original_Image_1.png" width="300">
 <img src="image/Undistorted_Image_1.png" width="300">
 <blockquote>
